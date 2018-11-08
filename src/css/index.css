@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import 'https://fonts.googleapis.com/css?family=Fauna+One';
+
+/*---------- Global Style ----------*/
+
+body {
+    color: #222;
+    font-family: 'Fauna One', serif;
+    font-size: 17px;
+    line-height: 1.8!important;
+}
+html {
+    overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    color: #111;
+    line-height: 1.5em;
+    margin-top: 0;
+    margin-bottom:40px !important;
+}
+
+select{
+  margin:auto !important;
+  width:50% !important;
+}
+
+textarea{
+  margin:auto !important;
+  width:75% !important;
+  height:700px !important;
+  -webkit-box-shadow: 10px 20px 10px 0px rgba(0,0,0,0.21) !important;
+  -moz-box-shadow: 10px 20px 10px 0px rgba(0,0,0,0.21) !important;
+  box-shadow: 10px 20px 10px 0px rgba(0,0,0,0.21) !important;
+}
+p {
+    font-family: 'Fauna One', serif;
+    font-weight: 300;
+    margin-top: 1px;
+}
+p,
+ul,
+li {
+    color: #666;
+}
+section {
+    padding-top: 185px;
+    padding-bottom: 185px;
+}
+
+.file-select{
+-webkit-box-shadow: 10px 20px 10px 0px rgba(0,0,0,0.21) !important;
+-moz-box-shadow: 10px 20px 10px 0px rgba(0,0,0,0.21) !important;
+box-shadow: 10px 20px 10px 0px rgba(0,0,0,0.21) !important;
+
+}
+.no-gutter {
+    padding-right: 0;
+    padding-left: 0;
+}
+a,
+a:link {
+    color: #666;
+}
+a:hover,
+a:focus,
+a:visited {
+    color: #666;
+    text-decoration: none;
+}
+.vcenter {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+.fill {
+    height: 100vh;
+}
+.margin-top-05 {
+    margin-top: 0.5em;
+}
+.margin-top-10 {
+    margin-top: 1.0em;
+}
+.margin-top-15 {
+    margin-top: 1.5em;
+}
+.margin-top-20 {
+    margin-top: 2.0em;
+}
+.margin-top-25 {
+    margin-top: 2.5em;
+}
+.margin-top-30 {
+    margin-top: 3.0em;
+}
+.margin-top-35 {
+    margin-top: 3.5em;
+}
+.margin-top-40 {
+    margin-top: 4.0em;
+}
+.margin-top-45 {
+    margin-top: 4.5em;
+}

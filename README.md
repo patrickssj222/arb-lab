@@ -1,5 +1,7 @@
 Created By: Patrick Hao
+
 Date: Nov.7th.2018
+
 Purpose: ARB Lab Pre-interview tech question
 
 
@@ -8,6 +10,8 @@ The project requires node.js and npm installed. As well as the following npm pac
 - socket.io
 - reactjs
 - ReactDOM
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
